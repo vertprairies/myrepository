@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Super-Linter
-        uses: https://github.com/marketplace/actions/super-linter@v5.7.2
+        uses: github/super-linter@v5.7.2
