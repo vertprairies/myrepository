@@ -7,7 +7,7 @@ a=5
 b=6
 
 
-  sum = a+b
+this is bad code!!  sum = a+b
 
 
 print(sum)
